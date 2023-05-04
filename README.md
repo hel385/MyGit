@@ -1,4 +1,4 @@
-# MyGit
+# MyGit (C++)
 
 Like how github keeps tracks of versioning, MyGit simulates this using a linkedlist, constructors, and destructors.
 
